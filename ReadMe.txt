@@ -5,14 +5,6 @@ Location: 		Kurigram
 
 URL: http://farhadasp01-001-site1.gtempurl.com/
 
-Database info:
-Hosting Account ID:	aspcareerfarhad-001
- FTP Address :		FTP.SMARTERASP.NET
- FTP Password :		skfarhadmay12,1989
-Database name: 		db_9f3dca_webapp
-DB login name:		9f3dca_webapp
-DB password:		skfarhadmay12
-
 Bug fixes/Improvements from v0:
 1.	Real time messaging "updateMessage", fixing.
 
